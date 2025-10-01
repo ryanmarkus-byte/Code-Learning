@@ -38,7 +38,7 @@ Este é um projeto de Front-end estático e não requer instalação de servidor
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [Link para o seu Repositório]
+    git clone https://github.com/ryanmarkus-byte/Code-Learning
     ```
 2.  **Abra o Arquivo:**
     Navegue até a pasta `Projetos/NLW-Agents-Projeto/` e abra o arquivo `index.html` diretamente em seu navegador.
