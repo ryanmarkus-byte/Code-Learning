@@ -1,0 +1,27 @@
+Em javascript se declara variavel usando uma das seguintes palavras-chaves: let,const,var
+
+let: variaveis que podem ser reatribuidas
+const: valores que n podem ser reatribuidos apos inicializacao.
+var: "É uma forma mais antiga de declarar variáveis e tem um comportamento um pouco diferente em relação ao escopo. Para aprendermos as práticas mais atuais, focaremos principalmente em let e const." - IA.
+ linha 7 é permitido pois é um let que permite que a variavel possa ser mudada.
+ ja as declaracoes com const resultariam em um erro, pois "const" n pode ser mudado apos a inicializacao.
+
+//
+
+JavaScript tem alguns tipos de dados primitivos importantes:
+
+Number: Representa números inteiros ou de ponto flutuante. Não há distinção explícita entre int e float como em Python. Ex: 10, -5, 3.14.
+String: Representa sequências de caracteres (texto), delimitadas por aspas simples (') ou duplas ("). Ex: 'Olá', "Mundo".
+Boolean: Representa valores lógicos: true ou false.
+Null: Um valor especial que representa a ausência intencional de um valor.
+Undefined: Um valor atribuído a uma variável que foi declarada, mas não recebeu um valor.
+
+//
+
+Operadores:
+
+Os operadores em JavaScript são muito semelhantes aos de Python e C:
+
+Aritméticos: + (adição), - (subtração), * (multiplicação), / (divisão), % (módulo), ** (exponenciação), ++ (incremento), -- (decremento).
+De Comparação: == (igual a), != (diferente de), > (maior que), < (menor que), >= (maior ou igual a), <= (menor ou igual a). Há também os operadores de igualdade estrita (===) e desigualdade estrita (!==) que comparam valor e tipo. Geralmente, é recomendado usar os operadores estritos para evitar comportamentos inesperados.
+Lógicos: && (AND), || (OR), ! (NOT).
