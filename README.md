@@ -1,38 +1,38 @@
-# 🚀 Portfólio de Estudos - Desenvolvimento Backend com Java
+# 🚀 Portfólio de Estudos - Desenvolvimento Frontend com JavaScript & React
 
-Olá! Eu sou Ryan e este repositório é meu diário de bordo e portfólio de estudos, focado em adquirir as habilidades essenciais para uma vaga de **Estágio em Desenvolvimento Backend**.
+Olá! Eu sou Ryan e este repositório é meu diário de bordo e portfólio de estudos, focado em adquirir as habilidades essenciais para uma vaga de **Estágio em Desenvolvimento Frontend**.
 
-Atualmente, meu foco principal está no aprendizado aprofundado de **Java**, a linguagem principal para a construção de sistemas empresariais e aplicações de alta performance.
-
----
-
-## 🎯 **Foco Principal de Estudo: Java Core e Backend**
-
-Minha trilha de aprendizado está priorizando a construção de sistemas de servidor e APIs robustas. As etapas de estudo atuais incluem:
-
-1.  **Fundamentos de Java:** Domínio da sintaxe, tipos de dados e estruturas de controle (`if/else`, loops).
-2.  **Programação Orientada a Objetos (POO):** Classes, Objetos, Encapsulamento, Herança e Polimorfismo (o pilar do Java).
-3.  **Estruturas de Coleções (Collections Framework):** Uso prático de `ArrayList`, `HashMap`, e `Set`.
-4.  **Desenvolvimento Backend:** Introdução a APIs e, futuramente, ao framework **Spring Boot**.
+Atualmente, meu foco principal está no aprendizado aprofundado de **JavaScript** e **React**, tecnologias amplamente utilizadas no desenvolvimento de interfaces modernas, dinâmicas e de alta performance.
 
 ---
 
-## 📂 **Estrutura do Repositório**
+## 🎯 Foco Principal de Estudo: JavaScript, React e Frontend
 
-Este repositório está organizado por linguagem para rastrear meu progresso em diferentes áreas:
+Minha trilha de aprendizado está voltada para a construção de interfaces web interativas e aplicações completas. As etapas de estudo atuais incluem:
+
+1. **Fundamentos de JavaScript:** Variáveis, funções, arrays, objetos e manipulação do DOM  
+2. **Programação Assíncrona:** Uso de `fetch`, `async/await` e consumo de APIs  
+3. **React:** Componentes, Props, State, Hooks (`useState`, `useEffect`) e organização de projetos  
+4. **Boas Práticas de Frontend:** Estruturação de código, reutilização de componentes e responsividade  
+5. **Integração com APIs:** Conectar o frontend com serviços backend  
+
+---
+
+## 📂 Estrutura do Repositório
 
 | Pasta | Descrição | Status |
 | :--- | :--- | :--- |
-| `Java/` | Códigos de estudo, exercícios e implementações de POO em Java. **(Foco Principal)** | Em Andamento |
-| `Python/` | Fundamentos da linguagem e estruturas de dados básicas. | Base Construída |
-| `JavaScript/` | Estudos iniciais em Fundamentos da Web. | Base Construída |
-| `Projetos/` | Projetos completos que unem as tecnologias aprendidas. | Em Breve |
+| `JavaScript/` | Exercícios, lógica de programação e manipulação do DOM | Em andamento |
+| `React/` | Projetos e estudos com componentes, hooks e aplicações completas | Em andamento |
+| `Java/` | Estudos anteriores focados em backend e POO | Base construída |
+| `Python/` | Fundamentos e estruturas de dados básicas | Base construída |
+| `Projetos/` | Projetos práticos integrando frontend e APIs | Em desenvolvimento |
 
 ---
 
-## 🤝 **Conecte-se Comigo**
+## 🤝 Conecte-se comigo
 
-Estou ativamente buscando oportunidades de estágio para aplicar e expandir meus conhecimentos. Sinta-se à vontade para entrar em contato:
+Estou buscando oportunidades de estágio para aplicar e evoluir minhas habilidades em desenvolvimento frontend. Sinta-se à vontade para entrar em contato:
 
-* **LinkedIn:** https://www.linkedin.com/in/ryan-markus-490371287
-* **E-mail:** ryanmaciel480@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ryan-markus-490371287  
+- **E-mail:** ryanmaciel480@gmail.com  
